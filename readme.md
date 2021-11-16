@@ -1,5 +1,5 @@
 Sea Shader
-demo ->>https://sea-shader-b5pfteg6g-ugurhanbuyukozcu-gmailcom.vercel.app/
+demo ->>https://sea-shader.vercel.app
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
